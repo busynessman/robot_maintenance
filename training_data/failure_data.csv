@@ -1,0 +1,50 @@
+,Time to failure (months),Failure mode
+0,2.0,Infant mortality
+1,1.0,Infant mortality
+2,1.0,Infant mortality
+3,2.0,Infant mortality
+4,2.0,Infant mortality
+5,38.0,Fatigue crack
+6,36.0,Fatigue crack
+7,45.0,Fatigue crack
+8,30.0,Fatigue crack
+9,42.0,Fatigue crack
+10,39.0,Fatigue crack
+11,46.0,Fatigue crack
+12,27.0,Control board failure
+13,37.0,Fatigue crack
+14,36.0,Fatigue crack
+15,36.0,Fatigue crack
+16,39.0,Fatigue crack
+17,48.0,Fatigue crack
+18,35.0,Fatigue crack
+19,60.0,Fatigue crack
+20,32.0,Fatigue crack
+21,50.0,Fatigue crack
+22,39.0,Fatigue crack
+23,35.0,Fatigue crack
+24,29.0,Fatigue crack
+25,12.0,Control board failure
+26,40.0,Fatigue crack
+27,12.0,Control board failure
+28,33.0,Control board failure
+29,35.0,Fatigue crack
+30,39.0,Fatigue crack
+31,42.0,Fatigue crack
+32,43.0,Fatigue crack
+33,42.0,Fatigue crack
+34,39.0,Fatigue crack
+35,43.0,Fatigue crack
+36,38.0,Fatigue crack
+37,36.0,Fatigue crack
+38,39.0,Fatigue crack
+40,44.0,Fatigue crack
+41,51.0,Fatigue crack
+42,34.0,Fatigue crack
+43,51.0,Fatigue crack
+44,50.0,Fatigue crack
+45,39.0,Fatigue crack
+46,42.0,Fatigue crack
+47,24.0,Control board failure
+48,48.0,Fatigue crack
+49,42.0,Fatigue crack
