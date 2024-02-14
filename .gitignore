@@ -1,2 +1,4 @@
 my_ws/
 testing_data/true
+testing_data/testing_sequence_with_truth
+testing_data/sent_to_student/solution.csv
